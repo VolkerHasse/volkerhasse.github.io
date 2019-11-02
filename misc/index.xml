@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miscs | Satiyoga &amp; Prana-Heilung</title>
-    <link>https://volkerhasse.github.io/misc/</link>
-      <atom:link href="https://volkerhasse.github.io/misc/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://satiyoga-pranaheilung.de/misc/</link>
+      <atom:link href="http://satiyoga-pranaheilung.de/misc/index.xml" rel="self" type="application/rss+xml" />
     <description>Miscs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2019 Volker Hasse</copyright><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://volkerhasse.github.io/img/icon-512.png</url>
+      <url>http://satiyoga-pranaheilung.de/img/icon-512.png</url>
       <title>Miscs</title>
-      <link>https://volkerhasse.github.io/misc/</link>
+      <link>http://satiyoga-pranaheilung.de/misc/</link>
     </image>
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>https://volkerhasse.github.io/misc/datenschutz/</link>
+      <link>http://satiyoga-pranaheilung.de/misc/datenschutz/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://volkerhasse.github.io/misc/datenschutz/</guid>
+      <guid>http://satiyoga-pranaheilung.de/misc/datenschutz/</guid>
       <description>
 
 &lt;p&gt;Wir erheben, verwenden und speichern Ihre personenbezogenen Daten
@@ -118,9 +118,9 @@ unsere im Impressum der Webseite angegebene Adresse zu richten.&lt;/p&gt;
     
     <item>
       <title>Impressum</title>
-      <link>https://volkerhasse.github.io/misc/impressum/</link>
+      <link>http://satiyoga-pranaheilung.de/misc/impressum/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://volkerhasse.github.io/misc/impressum/</guid>
+      <guid>http://satiyoga-pranaheilung.de/misc/impressum/</guid>
       <description>&lt;p&gt;&lt;h2&gt;Angaben gem&amp;auml;&amp;szlig; &amp;sect; 5 TMG&lt;/h2&gt;
 &lt;p&gt;Volker Hasse&lt;br /&gt;
 Hans-Berckefeldt-Stra&amp;szlig;e 8&lt;br /&gt;
