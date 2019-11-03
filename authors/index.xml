@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Satiyoga &amp; Prana-Heilung</title>
-    <link>https://satiyoga-pranaheilung.de/authors/</link>
-      <atom:link href="https://satiyoga-pranaheilung.de/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://satiyoga-pranaheilung.de/authors/</link>
+      <atom:link href="http://satiyoga-pranaheilung.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2019 Volker Hasse</copyright>
     <image>
-      <url>https://satiyoga-pranaheilung.de/img/icon-512.png</url>
+      <url>http://satiyoga-pranaheilung.de/img/icon-512.png</url>
       <title>Authors</title>
-      <link>https://satiyoga-pranaheilung.de/authors/</link>
+      <link>http://satiyoga-pranaheilung.de/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://satiyoga-pranaheilung.de/authors/admin/</link>
+      <link>http://satiyoga-pranaheilung.de/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://satiyoga-pranaheilung.de/authors/admin/</guid>
+      <guid>http://satiyoga-pranaheilung.de/authors/admin/</guid>
       <description>&lt;p&gt;Hallo, schön, dass SIe mich gefunden haben. &lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;Ich arbeite seit über 20 Jahren als Softwareentwickler in einem sehr schönen

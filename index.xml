@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Satiyoga &amp; Prana-Heilung</title>
-    <link>https://satiyoga-pranaheilung.de/</link>
-      <atom:link href="https://satiyoga-pranaheilung.de/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://satiyoga-pranaheilung.de/</link>
+      <atom:link href="http://satiyoga-pranaheilung.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Satiyoga &amp; Prana-Heilung</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2019 Volker Hasse</copyright><lastBuildDate>Thu, 31 Oct 2019 19:22:10 +0100</lastBuildDate>
     <image>
-      <url>https://satiyoga-pranaheilung.de/img/icon-512.png</url>
+      <url>http://satiyoga-pranaheilung.de/img/icon-512.png</url>
       <title>Satiyoga &amp; Prana-Heilung</title>
-      <link>https://satiyoga-pranaheilung.de/</link>
+      <link>http://satiyoga-pranaheilung.de/</link>
     </image>
     
     <item>
       <title>Event: Yoga &amp; More</title>
-      <link>https://satiyoga-pranaheilung.de/post/yoga_and_more/</link>
+      <link>http://satiyoga-pranaheilung.de/post/yoga_and_more/</link>
       <pubDate>Thu, 31 Oct 2019 19:22:10 +0100</pubDate>
-      <guid>https://satiyoga-pranaheilung.de/post/yoga_and_more/</guid>
+      <guid>http://satiyoga-pranaheilung.de/post/yoga_and_more/</guid>
       <description>&lt;p&gt;Anlässlich des Welt-Yoga-Tages veranstaltet die Familienbildungsstätte
 Untereichsfeld e.V. das Event &amp;ldquo;Yoga &amp;amp; More&amp;rdquo; am Samstag, den 16.11.2019 von 10-17 Uhr.
 Es finden bis zu 7 parallelen Workshops statt von Yoga, Meditation, Tanzen bis
@@ -56,9 +56,9 @@ begüßen zu dürfen.&lt;/p&gt;
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>https://satiyoga-pranaheilung.de/misc/datenschutz/</link>
+      <link>http://satiyoga-pranaheilung.de/misc/datenschutz/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://satiyoga-pranaheilung.de/misc/datenschutz/</guid>
+      <guid>http://satiyoga-pranaheilung.de/misc/datenschutz/</guid>
       <description>
 
 &lt;p&gt;Wir erheben, verwenden und speichern Ihre personenbezogenen Daten
@@ -160,9 +160,9 @@ unsere im Impressum der Webseite angegebene Adresse zu richten.&lt;/p&gt;
     
     <item>
       <title>Impressum</title>
-      <link>https://satiyoga-pranaheilung.de/misc/impressum/</link>
+      <link>http://satiyoga-pranaheilung.de/misc/impressum/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://satiyoga-pranaheilung.de/misc/impressum/</guid>
+      <guid>http://satiyoga-pranaheilung.de/misc/impressum/</guid>
       <description>&lt;p&gt;&lt;h2&gt;Angaben gem&amp;auml;&amp;szlig; &amp;sect; 5 TMG&lt;/h2&gt;
 &lt;p&gt;Volker Hasse&lt;br /&gt;
 Hans-Berckefeldt-Stra&amp;szlig;e 8&lt;br /&gt;
