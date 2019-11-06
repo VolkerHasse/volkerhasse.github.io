@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Satiyoga &amp; Prana-Heilung</title>
-    <link>https://satiyoga-pranaheilung.de/talk/</link>
-      <atom:link href="https://satiyoga-pranaheilung.de/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.satiyoga-pranaheilung.de/talk/</link>
+      <atom:link href="https://www.satiyoga-pranaheilung.de/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2019 Volker Hasse</copyright>
     <image>
-      <url>https://satiyoga-pranaheilung.de/img/icon-512.png</url>
+      <url>https://www.satiyoga-pranaheilung.de/img/icon-512.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://satiyoga-pranaheilung.de/talk/</link>
+      <link>https://www.satiyoga-pranaheilung.de/talk/</link>
     </image>
     
   </channel>
