@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Satiyoga &amp; Prana-Heilung</title>
-    <link>http://satiyoga-pranaheilung.de/authors/admin/</link>
-      <atom:link href="http://satiyoga-pranaheilung.de/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://satiyoga-pranaheilung.de/authors/admin/</link>
+      <atom:link href="https://satiyoga-pranaheilung.de/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Satiyoga &amp; Prana-Heilung</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2019 Volker Hasse</copyright>
     <image>
-      <url>http://satiyoga-pranaheilung.de/img/icon-512.png</url>
+      <url>https://satiyoga-pranaheilung.de/img/icon-512.png</url>
       <title>Satiyoga &amp; Prana-Heilung</title>
-      <link>http://satiyoga-pranaheilung.de/authors/admin/</link>
+      <link>https://satiyoga-pranaheilung.de/authors/admin/</link>
     </image>
     
   </channel>
