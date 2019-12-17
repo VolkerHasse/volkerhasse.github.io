@@ -1,0 +1,9 @@
+
+# User-agent:
+#    User-agent: Googlebot  Adressiert einen bestimmten Webcrawler.
+#    User-agent: *          Adressiert alle Webcrawler. 
+# Disallow: Disallow:       Die gesamte Website darf durchsucht werden. 
+
+User-agent: *
+Disallow:
+
