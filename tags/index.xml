@@ -5,12 +5,60 @@
     <link>https://www.satiyoga-pranaheilung.de/tags/</link>
       <atom:link href="https://www.satiyoga-pranaheilung.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2026 Volker Hasse</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2026 Volker Hasse</copyright><lastBuildDate>Tue, 29 Sep 2026 18:00:00 +0200</lastBuildDate>
     <image>
       <url>https://www.satiyoga-pranaheilung.de/img/icon-512.png</url>
       <title>Tags</title>
       <link>https://www.satiyoga-pranaheilung.de/tags/</link>
     </image>
+    
+    <item>
+      <title>Achtsamkeit</title>
+      <link>https://www.satiyoga-pranaheilung.de/tags/achtsamkeit/</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+      <guid>https://www.satiyoga-pranaheilung.de/tags/achtsamkeit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Göttingen</title>
+      <link>https://www.satiyoga-pranaheilung.de/tags/gottingen/</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+      <guid>https://www.satiyoga-pranaheilung.de/tags/gottingen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master Sai</title>
+      <link>https://www.satiyoga-pranaheilung.de/tags/master-sai/</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+      <guid>https://www.satiyoga-pranaheilung.de/tags/master-sai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meditation</title>
+      <link>https://www.satiyoga-pranaheilung.de/tags/meditation/</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+      <guid>https://www.satiyoga-pranaheilung.de/tags/meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prana-Heilung</title>
+      <link>https://www.satiyoga-pranaheilung.de/tags/prana-heilung/</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+      <guid>https://www.satiyoga-pranaheilung.de/tags/prana-heilung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selbstheilung</title>
+      <link>https://www.satiyoga-pranaheilung.de/tags/selbstheilung/</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+      <guid>https://www.satiyoga-pranaheilung.de/tags/selbstheilung/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

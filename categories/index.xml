@@ -5,12 +5,28 @@
     <link>https://www.satiyoga-pranaheilung.de/categories/</link>
       <atom:link href="https://www.satiyoga-pranaheilung.de/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2026 Volker Hasse</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© 2026 Volker Hasse</copyright><lastBuildDate>Tue, 29 Sep 2026 18:00:00 +0200</lastBuildDate>
     <image>
       <url>https://www.satiyoga-pranaheilung.de/img/icon-512.png</url>
       <title>Categories</title>
       <link>https://www.satiyoga-pranaheilung.de/categories/</link>
     </image>
+    
+    <item>
+      <title>Events</title>
+      <link>https://www.satiyoga-pranaheilung.de/categories/events/</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+      <guid>https://www.satiyoga-pranaheilung.de/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://www.satiyoga-pranaheilung.de/categories/workshops/</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+      <guid>https://www.satiyoga-pranaheilung.de/categories/workshops/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
